@@ -1,0 +1,93 @@
+stdClass Object
+(
+    [Result] => stdClass Object
+        (
+            [ResultType] => 0
+            [ResultCode] => 0
+            [ResultDesc] => The service request is processed successfully.
+            [OriginatorConversationID] => 11154-9214562-1
+            [ConversationID] => AG_20210302_0000787366e5257c688a
+            [TransactionID] => PC201HIK36
+            [ResultParameters] => stdClass Object
+                (
+                    [ResultParameter] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [Key] => InitiatorAccountCurrentBalance
+                                    [Value] => {Amount={CurrencyCode=KES, MinimumAmount=53100, BasicAmount=531.00}}
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [Key] => DebitAccountCurrentBalance
+                                    [Value] => {Amount={CurrencyCode=KES, MinimumAmount=53100, BasicAmount=531.00}}
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [Key] => Amount
+                                    [Value] => 80
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [Key] => DebitPartyAffectedAccountBalance
+                                    [Value] => Working Account|KES|531.00|531.00|0.00|0.00
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [Key] => TransCompletedTime
+                                    [Value] => 20210302212604
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [Key] => DebitPartyCharges
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [Key] => ReceiverPartyPublicName
+                                    [Value] => 600000 - saf test org
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [Key] => Currency
+                                    [Value] => KES
+                                )
+
+                        )
+
+                )
+
+            [ReferenceData] => stdClass Object
+                (
+                    [ReferenceItem] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [Key] => BillReferenceNumber
+                                    [Value] => test
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [Key] => QueueTimeoutURL
+                                    [Value] => https://internalsandbox.safaricom.co.ke/mpesa/b2bresults/v1/submit
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [Key] => Occassion
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

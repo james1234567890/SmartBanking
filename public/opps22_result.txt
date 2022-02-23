@@ -1,0 +1,48 @@
+stdClass Object
+(
+    [Result] => stdClass Object
+        (
+            [ResultType] => 0
+            [ResultCode] => 1
+            [ResultDesc] => The balance is insufficient for the transaction.
+            [OriginatorConversationID] => 18792-9321924-1
+            [ConversationID] => AG_20210302_000052cc7b7826540656
+            [TransactionID] => PC261HIK3W
+            [ResultParameters] => stdClass Object
+                (
+                    [ResultParameter] => stdClass Object
+                        (
+                            [Key] => DebitAccountCurrentBalance
+                            [Value] => {Amount={CurrencyCode=KES, MinimumAmount=100, BasicAmount=1.00}}
+                        )
+
+                )
+
+            [ReferenceData] => stdClass Object
+                (
+                    [ReferenceItem] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [Key] => BillReferenceNumber
+                                    [Value] => test
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [Key] => QueueTimeoutURL
+                                    [Value] => https://internalsandbox.safaricom.co.ke/mpesa/b2bresults/v1/submit
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [Key] => Occassion
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

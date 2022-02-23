@@ -1,0 +1,43 @@
+stdClass Object
+(
+    [Result] => stdClass Object
+        (
+            [ResultType] => 0
+            [ResultCode] => 0
+            [ResultDesc] => The service request is processed successfully.
+            [OriginatorConversationID] => 18805-7440950-1
+            [ConversationID] => AG_20210301_00006695e0763c8ac47c
+            [TransactionID] => PC10000000
+            [ResultParameters] => stdClass Object
+                (
+                    [ResultParameter] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [Key] => AccountBalance
+                                    [Value] => Working Account|KES|611.00|611.00|0.00|0.00&Float Account|KES|0.00|0.00|0.00|0.00&Utility Account|KES|4894287.54|4894287.54|0.00|1116744.00&Charges Paid Account|KES|-84425.00|-95150.00|10725.00|0.00&Organization Settlement Account|KES|0.00|0.00|0.00|0.00
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [Key] => BOCompletedTime
+                                    [Value] => 20210301222309
+                                )
+
+                        )
+
+                )
+
+            [ReferenceData] => stdClass Object
+                (
+                    [ReferenceItem] => stdClass Object
+                        (
+                            [Key] => QueueTimeoutURL
+                            [Value] => https://internalsandbox.safaricom.co.ke/mpesa/abresults/v1/submit
+                        )
+
+                )
+
+        )
+
+)

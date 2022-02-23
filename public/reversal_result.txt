@@ -1,0 +1,73 @@
+stdClass Object
+(
+    [Result] => stdClass Object
+        (
+            [ResultType] => 0
+            [ResultCode] => 2012
+            [ResultDesc] => The transaction cannot be reversed.
+            [OriginatorConversationID] => 24193-10274387-1
+            [ConversationID] => AG_20210303_00007fc6084f61a58917
+            [TransactionID] => PC341HIK8U
+            [ResultParameters] => stdClass Object
+                (
+                    [ResultParameter] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [Key] => DebitAccountBalance
+                                    [Value] => Utility Account|KES|90014201.00|90014201.00|241572.00|0.00
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [Key] => Amount
+                                    [Value] => 10000
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [Key] => TransCompletedTime
+                                    [Value] => 20210303135116
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [Key] => OriginalTransactionID
+                                    [Value] => PBQ21HIJBQ
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [Key] => Charge
+                                    [Value] => 0
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [Key] => CreditPartyPublicName
+                                    [Value] => 254708374149 - John Doe
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [Key] => DebitPartyPublicName
+                                    [Value] => 600000 - saf test org
+                                )
+
+                        )
+
+                )
+
+            [ReferenceData] => stdClass Object
+                (
+                    [ReferenceItem] => stdClass Object
+                        (
+                            [Key] => QueueTimeoutURL
+                            [Value] => https://internalsandbox.safaricom.co.ke/mpesa/reversalresults/v1/submit
+                        )
+
+                )
+
+        )
+
+)

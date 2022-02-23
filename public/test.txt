@@ -1,0 +1,8 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [account_balance] => Working Account|KES|611.00|611.00|0.00|0.00&Float Account|KES|0.00|0.00|0.00|0.00&Utility Account|KES|4894287.54|4894287.54|0.00|1116744.00&Charges Paid Account|KES|-84425.00|-95150.00|10725.00|0.00&Organization Settlement Account|KES|0.00|0.00|0.00|0.00
+        )
+
+)

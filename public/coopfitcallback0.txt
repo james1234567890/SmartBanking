@@ -1,0 +1,29 @@
+stdClass Object
+(
+    [messageReference] => 40ca18c6765808608u9a1
+    [messageDateTime] => 2021-03-05 10:50:01
+    [messageCode] => 0
+    [messageDescription] => Full Success
+    [source] => stdClass Object
+        (
+            [accountNumber] => 36001873000
+            [amount] => 777
+            [transactionCurrency] => KES
+            [narration] => Supplier Payment
+            [responseCode] => 0
+            [responseDescription] => Success
+        )
+
+    [destination] => stdClass Object
+        (
+            [referenceNumber] => 40ca18c6765086089a1_1
+            [accountNumber] => 54321987654321
+            [amount] => 777
+            [transactionCurrency] => KES
+            [narration] => Electricity Payment
+            [transactionID] => 1edde4c2-7
+            [responseCode] => 0
+            [responseDescription] => Success
+        )
+
+)

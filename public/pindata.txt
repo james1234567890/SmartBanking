@@ -1,0 +1,1 @@
+[{"id":1,"request_id":"RQ-N84KMMCEJII7AMQ","member_no":"K002","member_name":"NICHOLAS  KURIA RUMINJO","account_no":"K002001","account_name":"Ordinary Savings","phone_no":"0701579081","alert_option":"Both","active":1,"pin_no":"3971","transaction_date":"2021-03-23","transaction_time":"20:37:44","last_login_date":"2021-03-24","last_login_time":"07:40:37"}]

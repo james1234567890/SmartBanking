@@ -1,0 +1,29 @@
+stdClass Object
+(
+    [messageReference] => mu7iy8kcn210ewnb10lfmq
+    [messageDateTime] => 2021-03-05 11:00:46
+    [messageCode] => 0
+    [messageDescription] => Full Success
+    [source] => stdClass Object
+        (
+            [accountNumber] => 36001873000
+            [amount] => 8
+            [transactionCurrency] => KES
+            [narration] => 9rh6
+            [responseCode] => 0
+            [responseDescription] => Success
+        )
+
+    [destination] => stdClass Object
+        (
+            [referenceNumber] => RQ-6OUOS74D0SNBDQPSBNTY
+            [accountNumber] => 54321987654321
+            [amount] => 8
+            [transactionCurrency] => KES
+            [narration] => 9rh6
+            [transactionID] => f06270a3-c
+            [responseCode] => 0
+            [responseDescription] => Success
+        )
+
+)

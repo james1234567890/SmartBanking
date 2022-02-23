@@ -1,0 +1,32 @@
+stdClass Object
+(
+    [MessageReference] => 10fav6e100ulgjtq8w3xii
+    [MessageDateTime] => 2021-03-05 14:11:28
+    [MessageCode] => 0
+    [MessageDescription] => Full Success
+    [Source] => stdClass Object
+        (
+            [AccountNumber] => 36001873000
+            [Amount] => 899
+            [TransactionCurrency] => KES
+            [Narration] => 9rh6
+            [ResponseCode] => 0
+            [ResponseDescription] => Success
+        )
+
+    [Destinations] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [ReferenceNumber] => qbtpd100edg10age0yd299
+                    [MobileNumber] => 254728687217
+                    [Amount] => 899
+                    [Narration] => 9rh6
+                    [TransactionID] => 95b9d3c6-0
+                    [ResponseCode] => 0
+                    [ResponseDescription] => Success
+                )
+
+        )
+
+)

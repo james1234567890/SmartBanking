@@ -1,0 +1,23 @@
+stdClass Object
+(
+    [Result] => stdClass Object
+        (
+            [ResultType] => 0
+            [ResultCode] => 2001
+            [ResultDesc] => The initiator information is invalid.
+            [OriginatorConversationID] => 90316-8564688-1
+            [ConversationID] => AG_20210302_000070415ed73f5ba09e
+            [TransactionID] => PC20000000
+            [ReferenceData] => stdClass Object
+                (
+                    [ReferenceItem] => stdClass Object
+                        (
+                            [Key] => Occasion
+                            [Value] => TEST
+                        )
+
+                )
+
+        )
+
+)

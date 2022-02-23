@@ -1,0 +1,1 @@
+O:8:"stdClass":1:{s:4:"Body";O:8:"stdClass":1:{s:11:"stkCallback";O:8:"stdClass":4:{s:17:"MerchantRequestID";s:15:"26745-2568487-1";s:17:"CheckoutRequestID";s:24:"ws_CO_260220212135526815";s:10:"ResultCode";i:1032;s:10:"ResultDesc";s:25:"Request cancelled by user";}}}

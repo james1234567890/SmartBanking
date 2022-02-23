@@ -1,0 +1,7 @@
+stdClass Object
+(
+    [MessageReference] => 10fav6e100ulgjtq8w3xii
+    [MessageDateTime] => 2021-03-05T14:03:23
+    [MessageCode] => 0
+    [MessageDescription] => REQUEST ACCEPTED FOR PROCESSING
+)

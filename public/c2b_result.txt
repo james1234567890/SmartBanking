@@ -1,0 +1,15 @@
+stdClass Object
+(
+    [Body] => stdClass Object
+        (
+            [stkCallback] => stdClass Object
+                (
+                    [MerchantRequestID] => 26747-9579791-1
+                    [CheckoutRequestID] => ws_CO_020320212312116881
+                    [ResultCode] => 1032
+                    [ResultDesc] => Request cancelled by user
+                )
+
+        )
+
+)

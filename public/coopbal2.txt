@@ -1,0 +1,22 @@
+stdClass Object
+(
+    [MessageReference] => fyjl8vbcpvvblu80nmvq
+    [MessageDateTime] => 2021-03-04 21:11:07
+    [MessageCode] => 0
+    [MessageDescription] => Success
+    [AccountNumber] => 36001873000
+    [AccountName] => JOE K. DOE
+    [Currency] => USD
+    [ProductName] => CURRENT ACCOUNT
+    [ClearedBalance] => 75269.50
+    [BookedBalance] => 20461.29
+    [BlockedBalance] => 59626.01
+    [AvailableBalance] => 36900.98
+    [ArrearsAmount] => 59771.83
+    [BranchName] => GIGIRI MALL
+    [BranchSortCode] => 11151
+    [AverageBalance] => 92288.43
+    [UnclearedBalance] => 75296.26
+    [ODLimit] => 98696.35
+    [CreditLimit] => 75104.47
+)
